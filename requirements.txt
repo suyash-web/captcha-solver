@@ -3,3 +3,4 @@ uvicorn==0.34.3
 pillow==11.2.1
 torchvision==0.22.1
 torch==2.7.1
+python-multipart==0.0.20
